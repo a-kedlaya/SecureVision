@@ -31,7 +31,7 @@ export default function Scanner() {
     }
 
     try {
-      const apiUrl = import.meta.env.VITE_API_URL || 'https://securevision-backend.onrender.com';
+      const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000';
       const res = await fetch(`${apiUrl}/api/scan`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
