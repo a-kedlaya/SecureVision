@@ -8,7 +8,7 @@ export default function History() {
   useEffect(() => {
     const load = async () => {
       try {
-        const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:5000';
+        const apiUrl = import.meta.env.VITE_API_URL || 'https://securevision-backend.onrender.com';
         const res = await fetch(`${apiUrl}/api/scan/history`);
         if (!res.ok) throw new Error('Failed to fetch history');
         const body = await res.json();
