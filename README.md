@@ -1,8 +1,6 @@
 SECUREVISION
-SecureVision is a browser-based cybersecurity tool designed to help users identify whether a website or link is safe before opening it. 
-The system detects phishing links, suspicious websites, and potentially harmful pages using URL scanning and threat analysis techniques.
-It provides users with a safety score and warning alerts to protect them from cyber threats such as phishing attacks, password theft, 
-and malicious websites. SecureVision aims to create a safer browsing experience by helping users avoid dangerous links and online scams.
+
+SecureVision is a browser-based cybersecurity tool designed to help users identify whether a website or link is safe before opening it. The system detects phishing links, suspicious websites, and potentially harmful pages using URL scanning and threat analysis techniques.It provides users with a safety score and warning alerts to protect them from cyber threats such as phishing attacks, password theft, and malicious websites. SecureVision aims to create a safer browsing experience by helping users avoid dangerous links and online scams.
 
 
 
