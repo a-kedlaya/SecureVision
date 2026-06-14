@@ -6,6 +6,8 @@ SecureVision is a browser-based cybersecurity tool designed to help users identi
 
 Screenshots:
 
+
+
 Home page:
 <img width="1916" height="569" alt="Screenshot 2026-06-15 004138" src="https://github.com/user-attachments/assets/027ed173-2f8b-4f3c-8112-5b0495ba6f5c" />
 
@@ -15,8 +17,12 @@ Home page:
 
 
 
+
+
 Scan Url:
 <img width="1919" height="878" alt="Screenshot 2026-06-15 004246" src="https://github.com/user-attachments/assets/5f68cba4-0947-4e12-b887-edfb0aab4156" />
+
+
 
 
 
